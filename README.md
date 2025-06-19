@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Nishchal Gaba</h1>
-<h3 align="center">CEO & CTO | AI & Blockchain Innovator | Entrepreneur</h3>
+<h3 align="center">AI & Blockchain Innovator | End to End LLM Orchestration Expert</h3>
 
 <p align="center">
   <!-- (Optional Logo image can be added here) -->
