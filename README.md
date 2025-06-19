@@ -28,7 +28,7 @@ I'm a versatile technology leader with extensive experience in AI, blockchain, a
 ## Work Experience
 
 ### Prodigal AI – **CEO**  
-*India | 2021 – Present*  
+*India | 2021 – 2025*  
 - Oversee the development of AI automation systems and scalable blockchain solutions.  
 - Lead strategy and product innovation to drive market adoption.
 
